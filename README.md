@@ -6,11 +6,11 @@ I am Anshu , a data science enthusiast from India  :india:
 
  ## About Me : :loudspeaker:  :sparkles: 
  
-:chart_with_upwards_trend: Transition in Data Science  since June 2021
+:chart_with_upwards_trend: Transition in Data Domain
  
  * :desktop_computer:  I am an aspiring data scientist who is in search of opportunities that promote creative thinking and innovation.
  * :bar_chart: I believe data always tells us something of which we did not knew before.
- * :snake: I am currently learning tools  Python, SQL and Tableau . My personal interest lies in Data analysis and Machine Learning(Though I am beginner in it) .
+ * :snake: I am currently learning tools  Python, SQL and Tableau . My personal interest lies in Data analysis and Machine Learning .
  * :handshake: Looking for opportunities to collaborate on projects and grow myself professionally.
  * Feel free to reach to me about data analysis, data visualization, machine learning, statistcs ans sql. 
  * :zap: Loves -  	:books: Reading Books, :hugs: Spiritual Conversations, :lotus_position: Yoga , :chocolate_bar:.
