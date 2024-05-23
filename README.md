@@ -28,7 +28,7 @@ I am Anshu , a data science enthusiast from India  :india:
 
 
 ## :beginner: Skills and Competencies : 
-* Tools :  Python, SQL, Tableau.
+* Tools :  Python, SQL, Tableau,Power BI
 * ML-ALgorithms - Linear Regresion,Logistic Regression,k-means Clustering,Decison Trees,Random Forest, PCA.
 * Office Suite - MS Excel, MS PowerPoint, MS Word.
 * Functional Skills -  Data Analysis,Problem Solving, Data Visualization, Data Storytelling, Machine Learning.
