@@ -35,7 +35,7 @@ I am Anshu , a data science enthusiast from India  :india:
 
 ## :raised_hands: Connect with Me : 
 1. [LinkedIn](www.linkedin.com/in/anshu11).
-2. [Kaggle](https://www.kaggle.com/anshumani).
+2. [gmail](anshumani1995@gmail.com).
 
 
 
