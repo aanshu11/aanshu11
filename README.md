@@ -25,6 +25,7 @@ I am Anshu , a data science enthusiast from India  :india:
 2. [Telecom Churn](https://github.com/aanshu11/Telecom-Churn-).
 3. [News Popularity](https://github.com/aanshu11/News-Popularity).
 4. [Credit Card Fraud](https://github.com/aanshu11/Credit-Card-Fraud-Detection-).
+5. [IPL_Dashboard](https://github.com/aanshu11/IPL_Dashboard).
 
 
 ## :beginner: Skills and Competencies : 
