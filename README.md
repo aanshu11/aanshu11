@@ -34,7 +34,7 @@ I am Anshu , a data science enthusiast from India  :india:
 * Office Suite - MS Excel, MS PowerPoint, MS Word.
 * Functional Skills -  Data Analysis,Problem Solving, Data Visualization, Data Storytelling, Machine Learning.
 
-## :raised_hands: Connect with Me :  [LinkedIn](www.linkedin.com/in/anshu11).
+## :raised_hands: Connect with Me :  [LinkedIn](https://www.linkedin.com/in/anshu11/).
 
 
 
